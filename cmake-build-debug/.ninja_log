@@ -1,10 +1,6 @@
 # ninja log v6
-0	911	1729337298453573776	CMakeFiles/OOP_Project.dir/Account.cpp.o	4c13c5b35cab8ea4
-1	997	1729337298454573787	CMakeFiles/OOP_Project.dir/PersonalAccount.cpp.o	9e1ba3f286fda4ce
-1	1243	1729337298454573787	CMakeFiles/OOP_Project.dir/TestBank.cpp.o	81773c42766f699d
-0	1303	1729337298453573776	CMakeFiles/OOP_Project.dir/main.cpp.o	9683e43ffb1e3dbe
-1303	1424	1729337299756588213	OOP_Project	ceec30c7d15f03e4
-1	1057	1729337377210312393	CMakeFiles/OOP_Project.dir/main.cpp.o	9683e43ffb1e3dbe
-1057	1175	1729337378265295260	OOP_Project	ceec30c7d15f03e4
-2	1018	1729337401135936251	CMakeFiles/OOP_Project.dir/main.cpp.o	9683e43ffb1e3dbe
-1018	1134	1729337402151920845	OOP_Project	ceec30c7d15f03e4
+2	432	1729433281100315593	CMakeFiles/OOP_Project.dir/PersonalAccount.cpp.o	9e1ba3f286fda4ce
+2	437	1729433281100315593	CMakeFiles/OOP_Project.dir/Account.cpp.o	4c13c5b35cab8ea4
+1	628	1729433281099315585	CMakeFiles/OOP_Project.dir/main.cpp.o	9683e43ffb1e3dbe
+2	633	1729433281100315593	CMakeFiles/OOP_Project.dir/TestBank.cpp.o	81773c42766f699d
+633	692	1729433281731321129	OOP_Project	ceec30c7d15f03e4
