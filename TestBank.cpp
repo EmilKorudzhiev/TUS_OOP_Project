@@ -4,7 +4,6 @@
 #include <string>
 
 void TestBank::addAccount(const PersonalAccount& account) {
-    // Check if account already exists
     for (const auto& existingAccount : accounts) {
         if (existingAccount.getAccountHolderName() == account.getAccountHolderName() &&
             existingAccount.getAccountType() == account.getAccountType()) {
